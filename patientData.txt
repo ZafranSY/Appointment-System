@@ -1,0 +1,14 @@
+Ahmad|950|0123456789|Dr. Kumar|03-12-2023|10:00|Regular Checkup
+Siti|8802|0124567890|Dr. Lee|04-12-2023|11:00|Consultation
+Muthu|8903|0125678901|Dr. Tan|05-12-2023|09:30|Flu Symptoms
+Aisyah|9104|0126789012|Dr. Ong|06-12-2023|14:00|Vaccination
+Raj|8507|0127890123|Dr. Cheong|07-12-2023|15:30|Follow-up Visit
+Nurul|9205|0128901234|Dr. Lim|08-12-2023|13:00|General Consultation
+Ali|9408|0129012345|Dr. Teoh|09-12-2023|16:00|Prescription Refill
+Zara|8609|0120123456|Dr. Ng|10-12-2023|12:00|Annual Checkup
+Hafiz|9512|012|Dr. Yap|11-12-2023|08:30|Allergy Issues
+name|9307|0122345678|Dr. Chong|12-12-2023|17:00|Eye Examination
+Abu Bakar|9712|0123456780|Dr. Aiman|13-12-2023|08:30|Dental Checkup
+nare|013|019dr|10-1-2023|10:10|nothing
+jaf|43|123dr|10-12-2023|10:10|sakit
+||||||
